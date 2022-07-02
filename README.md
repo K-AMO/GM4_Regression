@@ -13,4 +13,4 @@ Included in this folder is our notebook are the following topics:
 - Model Performance
 - Model Explanations
 
-We have included the train data and the test data. 
+We have included the train data and the test data, if you have any questions fill free to reach to us. 
